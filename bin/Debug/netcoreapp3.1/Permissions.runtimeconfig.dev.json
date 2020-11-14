@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CHALAS-PC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CHALAS-PC\\.nuget\\packages"
+    ]
+  }
+}
